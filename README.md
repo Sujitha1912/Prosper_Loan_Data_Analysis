@@ -3,11 +3,11 @@ Loan Delinquency Prediction in Prosper Loans using Machine Learning
 
 
 ## Project Overview
-This data analysis project focuses on predicting loan delinquency for a fictional financial institution, MapleCredit, using machine learning techniques. The project aims to enhance risk management strategies and optimize lending operations by accurately identifying loans with a higher likelihood of delinquency.
+This data analysis project focuses on predicting loan delinquency of Prosper Loans using machine learning techniques. The project aims to enhance risk management strategies and optimize lending operations by accurately identifying loans with a higher likelihood of delinquency.
 
 
 ## Objective
-The primary objective is to develop a predictive model capable of accurately predicting whether a loan is likely to become delinquent or not. This predictive capability will enable MapleCredit to proactively manage and mitigate risks associated with loan delinquencies, ultimately leading to improved financial health and operational efficiency.
+The primary objective is to develop a predictive model capable of accurately predicting whether a loan is likely to become delinquent or not. This predictive capability will enable Prosper Marketplace to proactively manage and mitigate risks associated with loan delinquencies, ultimately leading to improved financial health and operational efficiency.
 
 
 ## Data Source
