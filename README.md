@@ -38,18 +38,22 @@ The following machine learning techniques were employed to predict loan delinque
 
 ### K-Nearest Neighbors (KNN):
 Model used for predicting the likelihood of loan delinquency.
+
 Mean Squared Error: 454.67
 
 ### Linear Regression:
 Model used for predicting the probability of loan delinquency.
+
 Mean Squared Error: 218803.34
 
 ### Random Forest Regression:
 Ensemble model comprising multiple decision trees.
+
 Mean Squared Error: 268026.02
 
 ### Decision Tree Regression:
 Tree-like model making decisions based on a series of conditions.
+
 Mean Squared Error: 328114.34
 
 
